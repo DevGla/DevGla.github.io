@@ -9,8 +9,8 @@ h1 {
 }
 p{
     color:rgb(58, 49, 49);
-    font-family: fantasy;
     text-align: center;
+    font-style: italic;
 }
 ul {
     color:rgb(43, 41, 41);
