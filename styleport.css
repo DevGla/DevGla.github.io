@@ -1,0 +1,30 @@
+body {
+    background-color:rgba(226, 198, 120, 0.801);
+
+}
+h1 {
+    color: rgb(3, 0, 0);
+    text-decoration: underline;
+    text-align: center;
+}
+p{
+    color:rgb(58, 49, 49);
+    font-family: fantasy;
+    text-align: center;
+}
+ul {
+    color:rgb(43, 41, 41);
+}
+h2 {
+    color:rgb(40, 112, 17);
+    text-decoration: underline;
+}    
+a {
+    color: rgb(7, 7, 7);
+}
+#george{
+    text-decoration: underline;
+}
+#trybe{
+    text-decoration: underline;
+}
