@@ -1,6 +1,6 @@
 body {
     background-color:rgba(226, 198, 120, 0.801);
-
+    
 }
 h1 {
     color: rgb(3, 0, 0);
@@ -11,7 +11,11 @@ p{
     color:rgb(58, 49, 49);
     text-align: center;
     font-style: italic;
-    font-family:cursive;
+  
+}
+.picture{
+    border-radius: 15px;
+}
 }
 ul {
     color:rgb(43, 41, 41);
